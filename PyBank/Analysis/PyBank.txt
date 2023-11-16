@@ -1,0 +1,8 @@
+Financial Analysis
+________________________________________________
+Total Months:,86
+Total: $ 22564198.0
+Average Change: $ -8311.105882352942
+"Greatest Increase Date: Aug-16, Profits: $ 1862002.0"
+"Greatest Decrease Date: Feb-14, Profits: $ -1825558.0"
+Output saved to,Analysis\PyBank.txt
